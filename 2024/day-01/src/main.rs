@@ -23,5 +23,5 @@ fn main() {
         sum_of_diffs += diff_abs;
     }
 
-    println!("{}", sum_of_diffs);
+    println!("Part 1: {}", sum_of_diffs);
 }
